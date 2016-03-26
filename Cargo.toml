@@ -1,0 +1,7 @@
+[package]
+name = "mcts"
+version = "0.1.0"
+authors = ["Adam Jesionowski <cmdprompt+gh@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
